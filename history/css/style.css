@@ -53,7 +53,7 @@ h1,h2,h3,h4,h5,h6 { font-family: 'Pretendard', serif; }
 }
 
 @media screen and (max-width: 450px) { /*아이폰*/
-    #box { display:block; margin:100px auto;  }
+    #box { display:block; margin:60px auto;  }
     .num { width:100%; }
     .num::before { display:none; }
     .num::after { display:none; }
