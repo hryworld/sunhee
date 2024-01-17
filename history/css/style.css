@@ -57,7 +57,7 @@ h1,h2,h3,h4,h5,h6 { font-family: 'Pretendard', serif; }
     .num { width:100%; }
     .num::before { display:none; }
     .num::after { display:none; }
-    .num h1 { font-size:35px; padding-left:2%; }
+    .num h1 { font-size:35px; padding-left:2%; letter-spacing: -2px; }
     .list { display:block; width:100%; padding-left:0; font-size:15px; }
     .list>div { width:85%; padding:5%; margin:2.5%; }
     .list>div p { font-size:13px; }
